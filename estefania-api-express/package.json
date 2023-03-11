@@ -1,0 +1,14 @@
+{
+  "name": "server_express",
+  "version": "1.0.0",
+  "description": "Mi primer servidor con NodeJS y Express",
+  "main": "app.js",
+  "scripts": {
+    "test": "Juan Bechara"
+  },
+  "author": "Juan Bechara",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.18.2"
+  }
+}
